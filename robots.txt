@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://teverischa.wbuyy.com/teverischa.txt
